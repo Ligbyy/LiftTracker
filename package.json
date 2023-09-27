@@ -1,0 +1,13 @@
+{
+  "name": "lifttracker",
+  "version": "1.0.0",
+  "description": "FullStack Web Application that tracks your daily workouts and visualizes progress and consistency",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
